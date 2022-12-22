@@ -1,5 +1,5 @@
 # A Simple JavaScript Calculator
 
-![calculator image](https://github.com/rayct/javascript_calculator/assets/main/js-calculator.png?raw=true)
+![Screenshot](/assets/js-calculator.png)
 
-## rayturner.dev# JavaScript_Calculator
+## rayturner.dev
